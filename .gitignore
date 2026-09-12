@@ -1,0 +1,18 @@
+# Jupyter and Python-generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+
+# Local environment and editor files
+.venv/
+venv/
+env/
+.env
+.vscode/
+
+# Common notebook-generated outputs
+*.html
+*.log
